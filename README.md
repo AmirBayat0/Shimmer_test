@@ -1,4 +1,6 @@
 # Shimmer Effect in Flutter
+![Untitled-1](https://user-images.githubusercontent.com/91388754/180733705-42ddc89b-8e08-4d55-aae5-4a8a4a0928a2.png)
+## Tutorial: https://youtu.be/C_a1Qmacsqs
 ## Links
 ### Support Me
 <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
